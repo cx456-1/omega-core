@@ -1,0 +1,13 @@
+{
+    "id": "omegacore",
+    "name": "ΩCore",
+    "version": "1.0.0",
+    "description": "Advanced light + cell simulation system for TurboWarp",
+    "author": "cx456",
+    "entry": "extension.js",
+    "blockIconURI": "",
+    "color1": "#000000",
+    "color2": "#220000",
+    "color3": "#ff0000"
+  }
+  
