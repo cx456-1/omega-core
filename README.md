@@ -3,9 +3,9 @@ it aint done yet! excpect like a billion bugs lmao
 this was mainly made for the custom cell engine
 
 how 2 install ΩCore for n00bs:
-1. put the files in a folder and rename the folder to ΩCore
+1. extract the .zip file and rename the outputted folder to ΩCore (make sure that there are no folders inside of that folder)
 2. open command prompt
-3. insert the command "cd C:\path\to\your\ΩCore" (replace path/to/your with the path you put the ΩCore folder in
+3. insert the command "cd C:\path\to\your\ΩCore" (replace path/to/your with the path you put the ΩCore folder in)
 4. insert the command "python -m http.server 8000" (if an error pops up, instal python 3.13 from the microsoft store)
 5. go to the link http://localhost:8000/extension.js
 6. open up Turbowarp (https://www.turbowarp.org/editor)
